@@ -1,0 +1,27 @@
+*{font-family: arial; }
+
+body{background-image: url(money.jpg);
+background-size: cover;}
+
+input[type="text"], input[type="email"], input[type="password"]
+{
+    background-image: url(box.jpg);
+    color: green;
+    margin-top: 20px;
+}
+input[type="submit"]
+{
+    background-color: grey;
+    margin-top: 25px;
+}
+
+h1{
+    font-size: 60px;
+    font-family: 'Lucida Sans';
+    color: gold;
+}
+
+#formulario
+{
+    margin-top: 100px;
+}
