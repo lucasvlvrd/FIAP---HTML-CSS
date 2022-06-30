@@ -1,0 +1,12 @@
+body{background-image: url(money.jpg);
+    background-size: cover;
+}
+
+#tabela1{
+    margin-top: 200px;
+    border: 20px green;
+    color: green;
+    background-image: url(fundo.jpg);
+}
+
+h1{color: gold;}
